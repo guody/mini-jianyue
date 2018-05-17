@@ -1,0 +1,70 @@
+/**index.wxss**/
+.title{
+  width:95%;
+  display: flex;
+  border-bottom: 1px dashed #b5b5b5;
+  padding:0 20rpx;
+}
+.comp{
+  width:600rpx;
+  margin-right: 50rpx;
+}
+.comp_name{
+  font-size: 44rpx;
+}
+.comp_desc{
+ font-size: 28rpx; 
+ color: #b5b5b5;
+ height: 90rpx;
+ line-height: 90rpx;
+}
+.logo{
+  margin-top: 35rpx;
+}
+.logo image{
+  height:120rpx;
+  width:120rpx;
+}
+.profile{
+  color: #333;
+  margin-bottom: 60rpx;
+}
+.profile_title{
+  font-size: 30rpx;
+  height: 100rpx;
+  line-height: 100rpx;
+}
+.profile_desc{
+  text-indent: 60rpx;
+  font-size: 30rpx;
+}
+.contact{
+  color: #999;
+  font-size: 28rpx;
+}
+.con_wrap{
+  display: flex;
+  height: 80rpx;
+  line-height: 80rpx;
+}
+
+.icons{
+  width: 30rpx;
+  height: 30rpx;
+  background-size:100% auto; 
+  margin-top: 25rpx;
+  margin-right: 16rpx;
+}
+.add_text{
+  overflow: hidden;  
+  width: 82%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.img_box image{
+  margin: 5px;
+}
+
+
+

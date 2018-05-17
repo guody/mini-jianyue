@@ -1,0 +1,7 @@
+/**app.wxss**/
+page{
+  font-family: "微软雅黑";
+}
+.container {
+  padding:40rpx;
+} 
